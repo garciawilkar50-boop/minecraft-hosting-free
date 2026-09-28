@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MCFree" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#6ee7b7</item>
+        <item name="colorPrimaryVariant">#34d399</item>
+        <item name="colorSecondary">#7dd3fc</item>
+        <item name="android:statusBarColor">#0b1020</item>
+        <item name="android:navigationBarColor">#0b1020</item>
+        <item name="android:windowBackground">#0b1020</item>
+    </style>
+</resources>
